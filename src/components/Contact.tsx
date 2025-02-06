@@ -38,7 +38,7 @@ export default function Contact() {
       {/* Fondo con overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1508973379184-7517410fb0bc?auto=format&fit=crop&q=80&w=1920"
+          src="https://i.postimg.cc/nhRtsWcB/adrian.jpg"
           alt="Fondo mágico"
           className="w-full h-full object-cover"
         />
